@@ -1,0 +1,126 @@
+# Copyright (C) 2024 indione
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Finder 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/store-finder\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-26T14:18:49+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: store-finder\n"
+
+#. Plugin Name of the plugin
+#: inc/store-finder-menu-page.php:23
+#: inc/store-finder-menu-page.php:24
+msgid "Store Finder"
+msgstr ""
+
+#. Description of the plugin
+msgid "It will find Your Store Globally."
+msgstr ""
+
+#. Author of the plugin
+msgid "indione"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/indionetech/"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:34
+#: inc/store-finder-menu-page.php:35
+msgid "Dashboard"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:43
+#: inc/store-finder-menu-page.php:44
+msgid "Add New Store"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:51
+#: inc/store-finder-menu-page.php:52
+msgid "Manage Store"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:59
+#: inc/store-finder-menu-page.php:60
+msgid "Edit Store"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:233
+msgid "Serial No"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:236
+msgid "Store Name"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:239
+msgid "Address"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:242
+msgid "Mobile"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:245
+msgid "Email"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:248
+msgid "Website"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:251
+msgid "Map"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:254
+msgid "Postcode"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:257
+msgid "Opening Time"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:260
+msgid "Continent"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:263
+msgid "Country"
+msgstr ""
+
+#: inc/store-finder-menu-page.php:266
+msgid "Action"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block title"
+msgid "Store Finder"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block description"
+msgid "It will find Your Store Globally"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key1"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key2"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key3"
+msgstr ""
